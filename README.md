@@ -12,6 +12,16 @@ O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleato
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
 
+### Neurociência Computacional
+
+### Processo de Contato
+
+### Dinâmica Orbital de Satélites
+
+### Biofeedback com Arduino
+
+
+
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
 
 Criei uma inteligência artificial para jogar Blackjack utilizando redes neurais e algoritmos genéticos.
