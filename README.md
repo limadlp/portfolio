@@ -2,7 +2,7 @@
 
 Este portfólio é uma compilação de projetos pessoais de simulação computacional e análise de dados.
 
-## Simulação computacional
+## Simulação Computacional e Análise de Dados
 
 ### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Luck vs Talent</a>
 
@@ -20,16 +20,12 @@ Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" targe
 
 ### Biofeedback com Arduino
 
-
-
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
 
 Criei uma inteligência artificial para jogar Blackjack utilizando redes neurais e algoritmos genéticos.
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/Blackjack" target="blank">aqui</a>.
 
-
-## Análise de dados
 
 ### <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb" target="blank">Pokemon dataset</a>
 
