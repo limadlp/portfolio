@@ -1,4 +1,4 @@
-# Portfolio by Dan Lima
+# Portfólio - Dan Lima
 
 Este portfólio é uma pequena compilação de projetos pessoais de simulação computacional e análise de dados.
 
