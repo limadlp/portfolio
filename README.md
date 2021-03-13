@@ -4,6 +4,8 @@ Este portfólio é uma compilação de projetos pessoais de simulação computac
 
 ## Simulação Computacional e Análise de Dados
 
+### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Neurociência Computacional</a>
+
 ### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Luck vs Talent</a>
 
 Para demonstrar que não há tanta conexão entre inteligência e sucesso financeiro, simulei um modelo de sorte vs inteligência baseado em um <a href="https://arxiv.org/pdf/1802.07068.pdf" target="blank">artigo</a> que li. 
@@ -11,8 +13,6 @@ Para demonstrar que não há tanta conexão entre inteligência e sucesso financ
 O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleatoria num espaço bidimensional, foi programado em Netlogo. A minha versão dispensa a necessidade de um espaço e considera que os eventos sejam sorteados a cada iteração de acordo com uma determinada probabilidade e foi programado em C++ e em Python.
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
-
-### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Neurociência Computacional</a>
 
 ### <a href="https://github.com/limadlp/ContactProcess" target="blank">Processo de Contato</a>
 
