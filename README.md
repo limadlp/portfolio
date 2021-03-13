@@ -48,7 +48,10 @@ ___
 ### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
 ___
 ### <a href="https://github.com/limadlp/Biofeedback" target="blank"> Biofeedback com Arduino </a>
+
+Circuitos e códigos, que desenvolvi, para capturar biosinais com arduino em tempo real. <a href="https://github.com/limadlp/Biofeedback" target="blank">Aqui.</a>
 ___
+
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
 
 Criei uma inteligência artificial para jogar Blackjack utilizando redes neurais e algoritmos genéticos.
