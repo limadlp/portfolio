@@ -5,10 +5,10 @@ Este portfólio é uma compilação de projetos pessoais de simulação computac
 ## Simulação Computacional e Análise de Dados
 
 ### <a href="https://github.com/limadlp/NeuroComp" target="blank">Neurociência Computacional</a>
-**Modelos de neurônios em Julia**
-* <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/LeakyIF.ipynb" target="blank">Leaky integrate and fire </a>
-* <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/ExpoIF.ipynb" target="blank">Exponential integrate and fire </a>
-* <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/HxHuxley.ipynb" target="blank">Hodkin-Huxley </a>
+* **Modelos de neurônios em Julia**
+  * <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/LeakyIF.ipynb" target="blank">Leaky integrate and fire </a>
+  * <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/ExpoIF.ipynb" target="blank">Exponential integrate and fire </a>
+  * <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/HxHuxley.ipynb" target="blank">Hodkin-Huxley </a>
 
 
 ### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Luck vs Talent</a>
