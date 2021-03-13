@@ -38,18 +38,19 @@ ___
 
 ### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Luck vs Talent</a>
 
-Para demonstrar que não há tanta conexão entre inteligência e sucesso financeiro, simulei um modelo de sorte vs inteligência baseado em um <a href="https://arxiv.org/pdf/1802.07068.pdf" target="blank">artigo</a> que li. 
+Numa tentativa de estudar a não conexão entre inteligência e sucesso financeiro, simulei um modelo de sorte vs inteligência baseado em um <a href="https://arxiv.org/pdf/1802.07068.pdf" target="blank">artigo</a> que li. 
 
 O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleatoria num espaço bidimensional, foi programado em Netlogo. A minha versão dispensa a necessidade de um espaço e considera que os eventos sejam sorteados a cada iteração de acordo com uma determinada probabilidade e foi programado em C++ e em Python.
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
 ___
 
-### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
-___
 ### <a href="https://github.com/limadlp/Biofeedback" target="blank"> Biofeedback com Arduino </a>
 
 Circuitos e códigos, que desenvolvi, para capturar biosinais com arduino em tempo real. <a href="https://github.com/limadlp/Biofeedback" target="blank">Aqui.</a>
+___
+
+### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
 ___
 
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
