@@ -4,7 +4,7 @@ Este portfólio é uma compilação de projetos pessoais de simulação computac
 
 ## Simulação Computacional e Análise de Dados
 
-### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Neurociência Computacional</a>
+### <a href="https://github.com/limadlp/NeuroComp" target="blank">Neurociência Computacional</a>
 
 ### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Luck vs Talent</a>
 
