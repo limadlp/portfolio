@@ -12,13 +12,13 @@ O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleato
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
 
-### Neurociência Computacional
+### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Neurociência Computacional</a>
 
 ### Processo de Contato
 
-### Dinâmica Orbital de Satélites
+### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
 
-### Biofeedback com Arduino
+### <a href="https://github.com/limadlp/Biofeedback" target="blank"> Biofeedback com Arduino </a>
 
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
 
