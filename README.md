@@ -1,6 +1,6 @@
 # Portfolio by Dan Lima
 
-Este portfólio é uma compilação de projetos pessoais de simulação computacional e análise de dados.
+Este portfólio é uma pequena compilação de projetos pessoais de simulação computacional e análise de dados.
 
 ## Simulação Computacional e Análise de Dados
 
@@ -44,7 +44,6 @@ O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleato
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
 
-### <a href="https://github.com/limadlp/ContactProcess" target="blank">Processo de Contato</a>
 
 ### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
 
@@ -66,11 +65,12 @@ Jupyter notebook: <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemo
 
 ## Aplicativos
 
-### <a href="https://transpose-musical-notes.br.aptoide.com/?store_name=danl800" target="blank">Conversor de notas musicais</a>
+### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Chord Transposer</a>
 
 Aplicativo para Android que faz a transposição de notas e acordes em N semitons.
 
-<a href="https://transpose-musical-notes.br.aptoide.com/?store_name=danl800"><img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/IMG-20180611-WA0005.jpg" height="500"></a>
+<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300">
+<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300">
+<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
 
-
-Download <a href="https://transpose-musical-notes.br.aptoide.com/?store_name=danl800" target="blank">aqui</a>.
+Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">aqui</a>.
