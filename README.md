@@ -69,8 +69,6 @@ Jupyter notebook: <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemo
 
 Aplicativo para Android que faz a transposição de notas e acordes em N semitons.
 
-<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300">
-<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300">
-<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
+<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300"><img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300"><img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
 
 Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">aqui</a>.
