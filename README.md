@@ -43,25 +43,25 @@ Para demonstrar que não há tanta conexão entre inteligência e sucesso financ
 O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleatoria num espaço bidimensional, foi programado em Netlogo. A minha versão dispensa a necessidade de um espaço e considera que os eventos sejam sorteados a cada iteração de acordo com uma determinada probabilidade e foi programado em C++ e em Python.
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
-
+___
 
 ### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
-
+___
 ### <a href="https://github.com/limadlp/Biofeedback" target="blank"> Biofeedback com Arduino </a>
-
+___
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
 
 Criei uma inteligência artificial para jogar Blackjack utilizando redes neurais e algoritmos genéticos.
 
 Mais detalhes e códigos <a href="https://github.com/limadlp/Blackjack" target="blank">aqui</a>.
-
+___
 
 ### <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb" target="blank">Pokemon dataset</a>
 
 Algumas análises exploratórias num <a href="https://www.kaggle.com/abcsds/pokemon" target="blank">dataset</a> de pokemon encontrado no <a href="https://www.kaggle.com/" target="blank">kaggle</a>.
 
 Jupyter notebook: <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb" target="">aqui</a>.
-
+___
 
 ## Aplicativos
 
