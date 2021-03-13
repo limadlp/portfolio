@@ -13,7 +13,7 @@ O núcleo da interface se divide em duas classes:
 * “rede.h”, contendo estruturas de redes; 
 * “dinamica.h”, contendo modelos de dinâmica neuronais e sinapses; 
 
-<a href="https://github.com/limadlp/NeuroComp/blob/tree/Cpp" target="blank">Aqui</a>, temos um esquema exemplos de códigos para as classes da interface:
+<a href="https://github.com/limadlp/NeuroComp/tree/Cpp" target="blank">Aqui</a>, temos um esquema exemplos de códigos para as classes da interface:
 
 Na classe “rede.h” temos a rede unidimensional, a rede quadrada e um tipo de rede modular hierárquica. 
 Na classe “dinamica.h” temos o modelo de integra-dispara simples, o modelo de Izhikevich. e o modelo de Levina-Herrmann-Geisel simplificado. 
