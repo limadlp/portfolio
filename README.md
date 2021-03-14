@@ -1,4 +1,4 @@
-# Portfólio - Dan Lima
+# Portfólio - Dangeles Lima
 
 Este portfólio é uma pequena compilação de projetos pessoais de simulação computacional e análise de dados.
 
