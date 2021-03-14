@@ -51,6 +51,10 @@ Circuitos e códigos, que desenvolvi, para capturar biosinais com arduino em tem
 ___
 
 ### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
+
+Repositório com códigos, em Fortran, utilizados em um trabalho de simulação computacional de transferências orbitais de satélites.
+
+No trabalho, foi apresentada uma proposta de manobras orbitais, de satélites, a partir do modelo de Hohmann para transferências não-impulsivas diferenciando a equação de Hohmann com intuito de obter um modelo semi-analítico de transferência entre órbitas próximas. Para obter os resultados a partir de simulações numéricas, foi utilizado um veículo espacial hipotético cujo decaimento se inicia a partir de 300 km até 120 km de altitude, onde supostamente começa a reentrada atmosférica do veículo até atingir a superfície da Terra. 
 ___
 
 ### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
