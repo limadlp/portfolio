@@ -1,6 +1,40 @@
 # Portfólio - Dangeles Lima
 
-Este portfólio é uma pequena compilação de projetos pessoais de simulação computacional e análise de dados.
+Este portifolio é uma compilação de aplicativos desenvolvidos em Flutter e projetos pessoais de Simulação Computacional e Análise de Dados.
+
+## Aplicativos Flutter
+
+### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Chord Transposer</a>
+
+Aplicativo para Android que faz a transposição de notas e acordes em N semitons.
+
+<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
+
+Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">aqui</a>.
+
+### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Debt Control</a>
+
+Aplicativo para controle de dívidas e pagamentos.
+
+Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">aqui</a>.
+
+
+### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">QueroMais Vegano</a>
+
+Aplicativo de loja virtual com Provider.
+
+Github <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">aqui</a>.
+
+
+### Outros projetos Flutter ###
+
+#### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">App de Filmes com GetX e consumo de Rest API</a>
+
+#### To Do List com Provider e arquitetura de móudlos
+
+
+
+___
 
 ## Simulação Computacional e Análise de Dados
 
@@ -71,12 +105,3 @@ Algumas análises exploratórias num <a href="https://www.kaggle.com/abcsds/poke
 Jupyter notebook: <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb" target="">aqui</a>.
 ___
 
-## Aplicativos
-
-### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Chord Transposer</a>
-
-Aplicativo para Android que faz a transposição de notas e acordes em N semitons.
-
-<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
-
-Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">aqui</a>.
