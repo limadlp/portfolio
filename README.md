@@ -46,9 +46,7 @@ Github <a href="https://github.com/limadlp/queromaisvegano" target="blank">aqui<
 * <a href="https://limadlp.github.io/flappy" target="blank">Flappy Birds</a>
 * <a href="https://limadlp.github.io/mario" target="blank">Mario</a>
 * <a href="https://limadlp.github.io/pong" target="blank">Pong</a>
-* <a href="https://limadlp.github.io/snake" target="blank">Snake</a>
 * <a href="https://limadlp.github.io/brickbreaker" target="blank">Brick Breaker</a>
-
 
 
 ___
