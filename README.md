@@ -21,7 +21,7 @@ Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnolog
 
 ### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">QueroMais Vegano</a>
 
-Aplicativo de loja virtual com Provider.
+Aplicativo de loja virtual com Provider e Firebase.
 
 Github <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">aqui</a>.
 
@@ -30,7 +30,7 @@ Github <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.
 
 #### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">App de Filmes com GetX e consumo de Rest API</a>
 
-#### To Do List com Provider e arquitetura de móudlos
+#### To Do List com Provider e arquitetura de módulos
 
 #### Jogos em Flutter
 ##### Mario
