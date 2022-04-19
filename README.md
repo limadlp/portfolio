@@ -2,6 +2,10 @@
 
 Este portifolio é uma compilação de aplicativos desenvolvidos em Flutter e projetos pessoais de Simulação Computacional e Análise de Dados.
 
+LinkedIn <a href="https://www.linkedin.com/in/dangeles-lima/" target="blank">aqui</a>.
+
+
+
 ## Aplicativos Flutter
 
 ### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Chord Transposer</a>
@@ -12,31 +16,38 @@ Aplicativo para Android que faz a transposição de notas e acordes em N semiton
 
 Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">aqui</a>.
 
-### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Debt Control</a>
+### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">Practical Debt Control</a>
 
 Aplicativo para controle de dívidas e pagamentos.
+
+<img src="https://play-lh.googleusercontent.com/uezSeu3ZC1QGKl2yZULtvmlpyfUhdtZIifSxyxrCtBOteoMz4HjOtVQ_NpyRi904lw=w1244-h973-rw" height="400">   <img src="https://play-lh.googleusercontent.com/x7agnslYDLSfcpBeRvaB6XvL_9JN__joPkVJWyDcUygbM6lGy0X4rFXvpzVeHGNfZ2k=w1244-h973-rw" height="400">   <img src="https://play-lh.googleusercontent.com/XDaizKYmOUcOUHlPiw60txny0wFO-Pxf-QowlYaB2_Dpbmfhls1urPZGEevjEYTb1lKy=w1244-h973-rw" height="400">
+<img src="https://play-lh.googleusercontent.com/EgfCGL9GbKBkYKVX1OD84Y5uaFI1re9ZgOeq3D-tMdXTDRKMi8EgYQC0z3X4ttVBfg=w1244-h973-rw" height="400">
+<img src="https://play-lh.googleusercontent.com/hnBJoQMQRcifeJng0LHxvSR9xrsH-IYrjd7KBbKN4dXAgzKGClKlAV2DzfzYwPOV5A=w1244-h973-rw" height="400">
 
 Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">aqui</a>.
 
 
-### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">QueroMais Vegano</a>
+### <a href="https://github.com/limadlp/queromaisvegano" target="blank">QueroMais Vegano</a>
 
 Aplicativo de loja virtual com Provider e Firebase.
 
-Github <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">aqui</a>.
+<img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_001.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_003.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_002.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_004.png" height="400"> 
+
+Github <a href="https://github.com/limadlp/queromaisvegano" target="blank">aqui</a>.
 
 
 ### Outros projetos Flutter ###
 
-#### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">App de Filmes com GetX e consumo de Rest API</a>
+#### <a href="https://github.com/limadlp/app_filmes_getx" target="blank">App de Filmes com GetX e consumo de Rest API</a>
 
-#### To Do List com Provider e arquitetura de módulos
+#### <a href="https://github.com/limadlp/todolist_provider" target="blank">To Do List com Provider, SQFLITE e arquitetura de módulos</a>
 
-#### Jogos em Flutter
-##### Mario
-##### Pong
-##### Snake
-##### Arkanoid
+#### Minigames em Flutter
+* <a href="https://limadlp.github.io/flappy" target="blank">Flappy Birds</a>
+* <a href="https://limadlp.github.io/mario" target="blank">Mario</a>
+* <a href="https://limadlp.github.io/pong" target="blank">Pong</a>
+* <a href="https://limadlp.github.io/snake" target="blank">Snake</a>
+* <a href="https://limadlp.github.io/brickbreaker" target="blank">Brick Breaker</a>
 
 
 
