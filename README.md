@@ -29,7 +29,7 @@ Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnolog
 
 ### <a href="https://github.com/limadlp/queromaisvegano" target="blank">QueroMais Vegano</a>
 
-Aplicativo de loja virtual com Provider e Firebase.
+Aplicativo de loja virtual com Provider, Firebase e integração com API da Cielo.
 
 <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_001.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_003.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_002.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_004.png" height="400"> 
 
