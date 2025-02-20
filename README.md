@@ -1,10 +1,10 @@
 # Portfólio - Dangeles Lima
 
-Este portifolio é uma compilação de aplicativos desenvolvidos em Flutter e projetos pessoais de Simulação Computacional e Análise de Dados.
+#### Este portifolio é uma compilação de aplicativos desenvolvidos em Flutter e outros projetos pessoais de APIs, Simulação Computacional e Análise de Dados.
+
+Ver todos os repositórios: <a href="https://github.com/limadlp" target="blank">Clique aqui para voltar para perfil do Github</a>.
 
 LinkedIn <a href="https://www.linkedin.com/in/dangeles-lima/" target="blank">aqui</a>.
-
-
 
 ## Aplicativos Flutter
 
@@ -36,11 +36,21 @@ Aplicativo de loja virtual com Provider e Firebase.
 Github <a href="https://github.com/limadlp/queromaisvegano" target="blank">aqui</a>.
 
 
+### <a href="https://github.com/limadlp/practical_house_manager" target="blank">Practical House Manager</a>
+
+Aplicativo para coordenar despesas e organização entre colegas de casa, implementando websocket, API em Golang, arquitetura em módulos (Flutter Modular), MVVM com repository pattern e MobX. (Projeto em andamento)
+
+Projeto em Flutter <a href="https://github.com/limadlp/practical_house_manager" target="blank">aqui</a>.
+
+API em Go <a href="https://github.com/limadlp/house-manager-api" target="blank">aqui</a>.
+
 ### Outros projetos Flutter ###
 
 #### <a href="https://github.com/limadlp/app_filmes_getx" target="blank">App de Filmes com GetX e consumo de Rest API</a>
 
 #### <a href="https://github.com/limadlp/todolist_provider" target="blank">To Do List com Provider, SQFLITE e arquitetura de módulos</a>
+
+#### <a href="https://github.com/limadlp/rispar_simulator" target="blank">Teste de desenvolvedor Mobile Rispar - Simulador de Crédito. (UX/UI, Responsividade, API Calls, MVVM, Provider.)</a>
 
 #### Minigames em Flutter
 * <a href="https://limadlp.github.io/flappy" target="blank">Flappy Birds</a>
@@ -48,8 +58,37 @@ Github <a href="https://github.com/limadlp/queromaisvegano" target="blank">aqui<
 * <a href="https://limadlp.github.io/pong" target="blank">Pong</a>
 * <a href="https://limadlp.github.io/brickbreaker/index.html#/" target="blank">Brick Breaker</a>
 
+#### Flutter Sandbox
 
+Coletânia de projetos de estudo, envolvendo estudos de clean architecture, testes, gerenciamento de estado, packages etc.
+
+* <a href="https://github.com/limadlp/flutter-sandbox" target="blank">https://github.com/limadlp/flutter-sandbox</a>
 ___
+
+
+## Outros frameworks front-end
+
+Pizzashop dashboard em Vite/React
+* <a href="https://github.com/limadlp/pizzashop-web" target="blank">https://github.com/limadlp/pizzashop-web</a>
+
+Tarefas em React/Next.js
+* <a href="https://github.com/limadlp/tarefas-nextjs" target="blank">https://github.com/limadlp/tarefas-nextjs</a>
+
+Controle de suporte para devs em React/Next.js
+* <a href="https://github.com/limadlp/devcontrole-nextjs" target="blank">https://github.com/limadlp/devcontrole-nextjs</a>
+
+## Backend
+
+Golang
+
+* <a href="https://github.com/limadlp/house-manager-api" target="blank">https://github.com/limadlp/house-manager-api</a>
+* <a href="https://github.com/limadlp/go-sandbox" target="blank">https://github.com/limadlp/go-sandbox</a>
+
+Node.js 
+
+Projeto de estudo Fórum com DDD, Clean Arch e Nest
+* <a href="https://github.com/limadlp/04-clean-ddd" target="blank">https://github.com/limadlp/04-clean-ddd</a>
+* <a href="https://github.com/limadlp/05-nest-clean" target="blank">https://github.com/limadlp/05-nest-clean</a>
 
 ## Simulação Computacional e Análise de Dados
 
