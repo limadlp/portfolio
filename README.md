@@ -1,161 +1,144 @@
-# Portfólio - Dangeles Lima
+# Portfolio — Dangeles Lima
 
-#### Este portifolio é uma compilação de aplicativos desenvolvidos em Flutter e outros projetos pessoais de APIs, Simulação Computacional e Análise de Dados.
+A selection of applications built with Flutter, along with personal projects involving APIs, front-end and backend development, computational simulation, and data analysis.
 
-Ver todos os repositórios: <a href="https://github.com/limadlp" target="blank">Clique aqui para voltar para perfil do Github</a>.
+[View all repositories](https://github.com/limadlp) · [LinkedIn](https://www.linkedin.com/in/dangeles-lima/)
 
-LinkedIn <a href="https://www.linkedin.com/in/dangeles-lima/" target="blank">aqui</a>.
+## Flutter Applications
 
-## Aplicativos Flutter
+### [Practical Chord Transposer](https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer)
 
-### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">Practical Chord Transposer</a>
-
-Aplicativo para Android que faz a transposição de notas e acordes em N semitons.
+An Android app that transposes notes and chords by any number of semitones.
 
 <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
 
-Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer" target="blank">aqui</a>.
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer).
 
-### <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">Practical Debt Control</a>
+### [Practical Debt Control](https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol)
 
-Aplicativo para controle de dívidas e pagamentos.
+An app for managing debts and payments.
 
 <img src="https://play-lh.googleusercontent.com/uezSeu3ZC1QGKl2yZULtvmlpyfUhdtZIifSxyxrCtBOteoMz4HjOtVQ_NpyRi904lw=w1244-h973-rw" height="400">   <img src="https://play-lh.googleusercontent.com/x7agnslYDLSfcpBeRvaB6XvL_9JN__joPkVJWyDcUygbM6lGy0X4rFXvpzVeHGNfZ2k=w1244-h973-rw" height="400">   <img src="https://play-lh.googleusercontent.com/XDaizKYmOUcOUHlPiw60txny0wFO-Pxf-QowlYaB2_Dpbmfhls1urPZGEevjEYTb1lKy=w1244-h973-rw" height="400">
 <img src="https://play-lh.googleusercontent.com/EgfCGL9GbKBkYKVX1OD84Y5uaFI1re9ZgOeq3D-tMdXTDRKMi8EgYQC0z3X4ttVBfg=w1244-h973-rw" height="400">
 <img src="https://play-lh.googleusercontent.com/hnBJoQMQRcifeJng0LHxvSR9xrsH-IYrjd7KBbKN4dXAgzKGClKlAV2DzfzYwPOV5A=w1244-h973-rw" height="400">
 
-Download <a href="https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol" target="blank">aqui</a>.
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol).
 
+### [QueroMais Vegano](https://github.com/limadlp/queromaisvegano)
 
-### <a href="https://github.com/limadlp/queromaisvegano" target="blank">QueroMais Vegano</a>
+An online store app built with Provider and Firebase, featuring Cielo API integration.
 
-Aplicativo de loja virtual com Provider, Firebase e integração com API da Cielo.
+<img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_001.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_003.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_002.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_004.png" height="400">
 
-<img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_001.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_003.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_002.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_004.png" height="400"> 
+[View source code](https://github.com/limadlp/queromaisvegano).
 
-Github <a href="https://github.com/limadlp/queromaisvegano" target="blank">aqui</a>.
+### [Travel Tech — Corporate Expense Management](https://github.com/limadlp/travel_tech_test)
 
+An offline-first corporate travel expense platform with a Flutter app, reusable design system, and lightweight Dart/Shelf backend. Built with Clean Architecture, Drift, BLoC, and Flutter Modular.
 
-### <a href="https://github.com/limadlp/practical_house_manager" target="blank">Practical House Manager</a>
+### [Practical House Manager](https://github.com/limadlp/practical_house_manager)
 
-Aplicativo para coordenar despesas e organização entre colegas de casa, implementando websocket, API em Golang, arquitetura em módulos (Flutter Modular), MVVM com repository pattern e MobX. (Projeto em andamento)
+An app for coordinating household expenses and organization between housemates. It uses WebSockets, a Go API, Flutter Modular, MVVM with the Repository pattern, and MobX. Work in progress.
 
-Projeto em Flutter <a href="https://github.com/limadlp/practical_house_manager" target="blank">aqui</a>.
+[Flutter app](https://github.com/limadlp/practical_house_manager) · [Go API](https://github.com/limadlp/house-manager-api)
 
-API em Go <a href="https://github.com/limadlp/house-manager-api" target="blank">aqui</a>.
+### More Flutter Projects
 
-### Outros projetos Flutter ###
+- [Movie App — GetX and REST API](https://github.com/limadlp/app_filmes_getx)
+- [To-Do List — Provider, SQFLite, and modular architecture](https://github.com/limadlp/todolist_provider)
+- [Raro Technical Test — responsive financial UI, BLoC, and automated tests](https://github.com/limadlp/raro_test)
+- [Rispar Mobile Developer Test — credit simulator with responsive UI, API calls, MVVM, and Provider](https://github.com/limadlp/rispar_simulator)
 
-#### <a href="https://github.com/limadlp/app_filmes_getx" target="blank">App de Filmes com GetX e consumo de Rest API</a>
+#### Flutter Minigames
 
-#### <a href="https://github.com/limadlp/todolist_provider" target="blank">To Do List com Provider, SQFLITE e arquitetura de módulos</a>
-
-#### <a href="https://github.com/limadlp/rispar_simulator" target="blank">Teste de desenvolvedor Mobile Rispar - Simulador de Crédito. (UX/UI, Responsividade, API Calls, MVVM, Provider.)</a>
-
-#### Minigames em Flutter
-* <a href="https://limadlp.github.io/flappy" target="blank">Flappy Birds</a>
-* <a href="https://limadlp.github.io/mario" target="blank">Mario</a>
-* <a href="https://limadlp.github.io/pong" target="blank">Pong</a>
-* <a href="https://limadlp.github.io/brickbreaker/index.html#/" target="blank">Brick Breaker</a>
+- [Flappy Bird](https://limadlp.github.io/flappy)
+- [Mario](https://limadlp.github.io/mario)
+- [Pong](https://limadlp.github.io/pong)
+- [Brick Breaker](https://limadlp.github.io/brickbreaker/index.html#/)
 
 #### Flutter Sandbox
 
-Coletânia de projetos de estudo, envolvendo estudos de clean architecture, testes, gerenciamento de estado, packages etc.
+A collection of study projects covering Clean Architecture, testing, state management, packages, and related topics.
 
-* <a href="https://github.com/limadlp/flutter-sandbox" target="blank">https://github.com/limadlp/flutter-sandbox</a>
-___
+- [Flutter Sandbox](https://github.com/limadlp/flutter-sandbox)
 
+---
 
-## Outros frameworks front-end
+## Other Front-End Frameworks
 
-Pizzashop dashboard em Vite/React
-* <a href="https://github.com/limadlp/pizzashop-web" target="blank">https://github.com/limadlp/pizzashop-web</a>
-
-Tarefas em React/Next.js
-* <a href="https://github.com/limadlp/tarefas-nextjs" target="blank">https://github.com/limadlp/tarefas-nextjs</a>
-
-Controle de suporte para devs em React/Next.js
-* <a href="https://github.com/limadlp/devcontrole-nextjs" target="blank">https://github.com/limadlp/devcontrole-nextjs</a>
+- [Pizzashop dashboard](https://github.com/limadlp/pizzashop-web) — Vite and React
+- [Task manager](https://github.com/limadlp/tarefas-nextjs) — React and Next.js
+- [Developer support manager](https://github.com/limadlp/devcontrole-nextjs) — React and Next.js
 
 ## Backend
 
-Golang
+### Go
 
-* <a href="https://github.com/limadlp/house-manager-api" target="blank">https://github.com/limadlp/house-manager-api</a>
-* <a href="https://github.com/limadlp/go-sandbox" target="blank">https://github.com/limadlp/go-sandbox</a>
+- [House Manager API](https://github.com/limadlp/house-manager-api)
+- [Go Sandbox](https://github.com/limadlp/go-sandbox)
 
-Node.js 
+### Node.js
 
-Projeto de estudo Fórum com DDD, Clean Arch e Nest
-* <a href="https://github.com/limadlp/04-clean-ddd" target="blank">https://github.com/limadlp/04-clean-ddd</a>
-* <a href="https://github.com/limadlp/05-nest-clean" target="blank">https://github.com/limadlp/05-nest-clean</a>
+Study projects for a forum built with DDD, Clean Architecture, and NestJS:
 
-## Simulação Computacional e Análise de Dados
+- [Clean DDD](https://github.com/limadlp/04-clean-ddd)
+- [NestJS with Clean Architecture](https://github.com/limadlp/05-nest-clean)
 
-### <a href="https://github.com/limadlp/NeuroComp" target="blank">Neurociência Computacional</a>
+## Computational Simulation and Data Analysis
 
-<a href="https://github.com/limadlp/NeuroComp/tree/main/Cpp" target="blank">**Classes em C++**</a>
+### [Computational Neuroscience](https://github.com/limadlp/NeuroComp)
 
-Para facilitar a utilização e reutilização de vários modelos de neurônios, desenvolvi uma interface computacional com diferentes modelos de redes, dinâmicas neuronais e sinapses.
-O núcleo da interface se divide em duas classes: 
-* “rede.h”, contendo estruturas de redes; 
-* “dinamica.h”, contendo modelos de dinâmica neuronais e sinapses; 
+#### [C++ Classes](https://github.com/limadlp/NeuroComp/tree/main/Cpp)
 
+I developed a reusable computational interface for multiple network structures, neuronal dynamics, and synapse models. Its core is divided into two classes:
 
-<a href="https://github.com/limadlp/NeuroComp/tree/main/Cpp" target="blank">Aqui</a>, temos exemplos de códigos para as classes da interface:
+- `rede.h`, containing network structures;
+- `dinamica.h`, containing neuronal dynamics and synapse models.
 
-Na classe “rede.h” temos a rede unidimensional, a rede quadrada e um tipo de rede modular hierárquica. 
-Na classe “dinamica.h” temos o modelo de integra-dispara simples, o modelo de Izhikevich. e o modelo de Levina-Herrmann-Geisel simplificado. 
+The [repository includes examples](https://github.com/limadlp/NeuroComp/tree/main/Cpp) using one-dimensional, square, and hierarchical modular networks, as well as integrate-and-fire, Izhikevich, and simplified Levina–Herrmann–Geisel models.
 
-**<a href="https://github.com/limadlp/NeuroComp/tree/main/Julia" target="blank">Modelos de neurônios em Julia</a>**
+#### [Neuron Models in Julia](https://github.com/limadlp/NeuroComp/tree/main/Julia)
 
-Alguns modelos de neurônios em linguagem Julia:
-  * <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/LeakyIF.ipynb" target="blank">Leaky integrate and fire </a>
-  * <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/ExpoIF.ipynb" target="blank">Exponential integrate and fire </a>
-  * <a href="https://github.com/limadlp/NeuroComp/blob/main/Julia/HxHuxley.ipynb" target="blank">Hodkin-Huxley </a>
+- [Leaky integrate-and-fire](https://github.com/limadlp/NeuroComp/blob/main/Julia/LeakyIF.ipynb)
+- [Exponential integrate-and-fire](https://github.com/limadlp/NeuroComp/blob/main/Julia/ExpoIF.ipynb)
+- [Hodgkin–Huxley](https://github.com/limadlp/NeuroComp/blob/main/Julia/HxHuxley.ipynb)
 
+#### [Neuronal Avalanches — Data Analysis](https://github.com/limadlp/NeuroComp/blob/main/DataScience/Avalanche.ipynb)
 
-**<a href="https://github.com/limadlp/NeuroComp/blob/main/DataScience/Avalanche.ipynb" target="blank">Avalanches Neuronais - Análise de dados</a>**
+A short [Python analysis](https://github.com/limadlp/NeuroComp/blob/main/DataScience/Avalanche.ipynb) of data from a simulation of 1,024 leaky integrate-and-fire neurons on a square network. It examines the neuronal avalanche distribution and its power-law behavior through a log-log plot.
 
-<a href="https://github.com/limadlp/NeuroComp/blob/main/DataScience/Avalanche.ipynb" target="blank">Aqui,</a> um breve exemplo de análise utilizando Python. 
+---
 
-Os dados são de uma simulação de 1024 neurônios (modelo leaky integrate and fire) numa rede quadrada. 
-A partir dos dados, é obtidada o histograma da distribuição de avalanches neuronais, bem como verifica-se um comportamento de lei de potência a partir do gráfico log-log.
-___
+### [Luck vs Talent](https://github.com/limadlp/LuckvsTalent)
 
+A C++ and Python simulation exploring the relationship between intelligence and financial success, based on an [agent-based model](https://arxiv.org/pdf/1802.07068.pdf). My version removes the spatial environment and samples events probabilistically at each iteration.
 
-### <a href="https://github.com/limadlp/LuckvsTalent" target="blank">Luck vs Talent</a>
+[View details and source code](https://github.com/limadlp/LuckvsTalent).
 
-Numa tentativa de estudar a não conexão entre inteligência e sucesso financeiro, simulei um modelo de sorte vs inteligência baseado em um <a href="https://arxiv.org/pdf/1802.07068.pdf" target="blank">artigo</a> que li. 
+---
 
-O modelo do artigo é baseado em agentes, os eventos seguem uma caminhada aleatoria num espaço bidimensional, foi programado em Netlogo. A minha versão dispensa a necessidade de um espaço e considera que os eventos sejam sorteados a cada iteração de acordo com uma determinada probabilidade e foi programado em C++ e em Python.
+### [Arduino Biofeedback](https://github.com/limadlp/Biofeedback)
 
-Mais detalhes e códigos <a href="https://github.com/limadlp/LuckvsTalent" target="blank">aqui</a>.
-___
+Circuits and code for capturing biosignals from Arduino in real time. [View the project](https://github.com/limadlp/Biofeedback).
 
-### <a href="https://github.com/limadlp/Biofeedback" target="blank"> Biofeedback com Arduino </a>
+---
 
-Circuitos e códigos, que desenvolvi, para capturar biosinais com arduino em tempo real. <a href="https://github.com/limadlp/Biofeedback" target="blank">Aqui.</a>
-___
+### [Satellite Orbital Dynamics](https://github.com/limadlp/OrbitalDynamics)
 
-### <a href="https://github.com/limadlp/OrbitalDynamics" target="blank"> Dinâmica Orbital de Satélites </a>
+Fortran code used in a computational simulation study of satellite orbital transfers. The work proposes non-impulsive maneuvers based on a differentiated Hohmann equation, producing a semi-analytical model for transfers between nearby orbits.
 
-Repositório com códigos, em Fortran, utilizados em um trabalho de simulação computacional de transferências orbitais de satélites.
+---
 
-No trabalho, foi apresentada uma proposta de manobras orbitais, de satélites, a partir do modelo de Hohmann para transferências não-impulsivas diferenciando a equação de Hohmann com intuito de obter um modelo semi-analítico de transferência entre órbitas próximas. Para obter os resultados a partir de simulações numéricas, foi utilizado um veículo espacial hipotético cujo decaimento se inicia a partir de 300 km até 120 km de altitude, onde supostamente começa a reentrada atmosférica do veículo até atingir a superfície da Terra. 
-___
+### [Blackjack with Neuroevolution](https://github.com/limadlp/Blackjack)
 
-### <a href="https://github.com/limadlp/Blackjack" target="blank">Blackjack com Neuroevolução</a>
+An AI agent built to play Blackjack using neural networks and genetic algorithms.
 
-Criei uma inteligência artificial para jogar Blackjack utilizando redes neurais e algoritmos genéticos.
+[View details and source code](https://github.com/limadlp/Blackjack).
 
-Mais detalhes e códigos <a href="https://github.com/limadlp/Blackjack" target="blank">aqui</a>.
-___
+---
 
-### <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb" target="blank">Pokemon dataset</a>
+### [Pokémon Dataset](https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb)
 
-Algumas análises exploratórias num <a href="https://www.kaggle.com/abcsds/pokemon" target="blank">dataset</a> de pokemon encontrado no <a href="https://www.kaggle.com/" target="blank">kaggle</a>.
+Exploratory analysis of a [Pokémon dataset](https://www.kaggle.com/abcsds/pokemon) available on [Kaggle](https://www.kaggle.com/).
 
-Jupyter notebook: <a href="https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb" target="">aqui</a>.
-___
-
+[View the Jupyter notebook](https://github.com/limadlp/Pokemon/blob/master/Pokemon3.ipynb).
