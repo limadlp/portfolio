@@ -1,26 +1,49 @@
-# Portfolio — Dangeles Lima
+# Dangeles Lima — Flutter Mobile Developer & Applied AI Engineer
 
-A selection of applications built with Flutter, along with personal projects involving APIs, front-end and backend development, computational simulation, and data analysis.
+I build mobile apps with Flutter and Dart, including Android apps published on Google Play and offline-first apps with local persistence and automated testing. My applied AI work focuses on building AI agents, orchestrating LLM workflows, and evaluating their performance.
 
 [View all repositories](https://github.com/limadlp) · [LinkedIn](https://www.linkedin.com/in/dangeles-lima/)
 
-## Flutter Applications
+## Selected Projects
+
+| Project | Area | Engineering focus |
+| --- | --- | --- |
+| [Lexicon](#lexicon--agent-orchestration-for-book-translation) | Applied AI | Parallel LLM workflows, shared glossary, and translation evaluation |
+| [Practical Chord Transposer](#practical-chord-transposer) | Flutter | Published Android app with a custom chord editor and keyboard |
+| [Travel Tech](#travel-tech--corporate-expense-management) | Flutter | Offline-first app with Drift, BLoC, and a reusable design system |
+| [Practical Debt Control](#practical-debt-control) | Flutter | Published Android app for tracking debts and payments |
+
+## Flutter Apps
 
 ### [Practical Chord Transposer](https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer)
 
-An Android app that transposes notes and chords by any number of semitones.
+A Flutter app for Android with a custom chord keyboard and editor. Musicians can transpose an entire progression by semitones, then save or share it.
 
-<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc01.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc03.png" height="300">   <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/sc02.png" height="300">
+<details>
+<summary>Screenshots</summary>
+
+<img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/chord-transposer/chord-editor.png" alt="Chord editor with a C–G–Am–F progression" height="360"> <img src="https://raw.githubusercontent.com/limadlp/limadlp.github.io/master/img/chord-transposer/transposed-chords.png" alt="The same progression transposed up two semitones to D–A–Bm–G" height="360">
+
+</details>
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=com.axdtechnology.chordtransposer).
 
+### [Travel Tech — Corporate Expense Management](https://github.com/limadlp/travel_tech_test)
+
+An offline-first corporate travel expense platform with a Flutter app, reusable design system, and lightweight Dart/Shelf backend. Built with Clean Architecture, Drift, BLoC, and Flutter Modular.
+
 ### [Practical Debt Control](https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol)
 
-An app for managing debts and payments.
+A Flutter app for tracking debts and payments, published on Google Play.
+
+<details>
+<summary>Screenshots</summary>
 
 <img src="https://play-lh.googleusercontent.com/uezSeu3ZC1QGKl2yZULtvmlpyfUhdtZIifSxyxrCtBOteoMz4HjOtVQ_NpyRi904lw=w1244-h973-rw" height="400">   <img src="https://play-lh.googleusercontent.com/x7agnslYDLSfcpBeRvaB6XvL_9JN__joPkVJWyDcUygbM6lGy0X4rFXvpzVeHGNfZ2k=w1244-h973-rw" height="400">   <img src="https://play-lh.googleusercontent.com/XDaizKYmOUcOUHlPiw60txny0wFO-Pxf-QowlYaB2_Dpbmfhls1urPZGEevjEYTb1lKy=w1244-h973-rw" height="400">
 <img src="https://play-lh.googleusercontent.com/EgfCGL9GbKBkYKVX1OD84Y5uaFI1re9ZgOeq3D-tMdXTDRKMi8EgYQC0z3X4ttVBfg=w1244-h973-rw" height="400">
 <img src="https://play-lh.googleusercontent.com/hnBJoQMQRcifeJng0LHxvSR9xrsH-IYrjd7KBbKN4dXAgzKGClKlAV2DzfzYwPOV5A=w1244-h973-rw" height="400">
+
+</details>
 
 [Download on Google Play](https://play.google.com/store/apps/details?id=com.axdtechnology.debtcontrol).
 
@@ -28,13 +51,14 @@ An app for managing debts and payments.
 
 An online store app built with Provider and Firebase, featuring Cielo API integration.
 
+<details>
+<summary>Screenshots</summary>
+
 <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_001.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_003.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_002.png" height="400"> <img src="https://github.com/limadlp/queromaisvegano/raw/master/img/Screenshot_004.png" height="400">
 
+</details>
+
 [View source code](https://github.com/limadlp/queromaisvegano).
-
-### [Travel Tech — Corporate Expense Management](https://github.com/limadlp/travel_tech_test)
-
-An offline-first corporate travel expense platform with a Flutter app, reusable design system, and lightweight Dart/Shelf backend. Built with Clean Architecture, Drift, BLoC, and Flutter Modular.
 
 ### [Practical House Manager](https://github.com/limadlp/practical_house_manager)
 
@@ -64,13 +88,23 @@ A collection of study projects covering Clean Architecture, testing, state manag
 
 ---
 
-## Other Front-End Frameworks
+## AI Engineering
+
+### [Lexicon — Agent Orchestration for Book Translation](https://github.com/limadlp/lexicon-agent-orchestration)
+
+I built a Python pipeline that translates EPUB and Markdown books into Brazilian Portuguese. It processes chapters concurrently using a shared glossary to keep terminology and character references consistent. After consolidating glossary updates, it revises only chapters affected by conflicts.
+
+I implemented interchangeable orchestration engines using asyncio, LangGraph, and Google ADK, and used *The Wonderful Wizard of Oz* to evaluate terminology consistency across chapters.
+
+[Source code](https://github.com/limadlp/lexicon-agent-orchestration)
+
+## Web Frontend
 
 - [Pizzashop dashboard](https://github.com/limadlp/pizzashop-web) — Vite and React
 - [Task manager](https://github.com/limadlp/tarefas-nextjs) — React and Next.js
 - [Developer support manager](https://github.com/limadlp/devcontrole-nextjs) — React and Next.js
 
-## Backend
+## Backend & APIs
 
 ### Go
 
