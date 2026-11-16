@@ -9,6 +9,7 @@ I build mobile apps with Flutter and Dart, including Android apps published on G
 | Project | Area | Engineering focus |
 | --- | --- | --- |
 | [Lexicon](#lexicon--agent-orchestration-for-book-translation) | Applied AI | Parallel LLM workflows, shared glossary, and translation evaluation |
+| [Especialistas](#especialistas--rag-for-personal-libraries) | Applied AI | Hybrid search over PDFs and EPUBs, with answers linked to source passages |
 | [Practical Chord Transposer](#practical-chord-transposer) | Flutter | Published Android app with a custom chord editor and keyboard |
 | [Travel Tech](#travel-tech--corporate-expense-management) | Flutter | Offline-first app with Drift, BLoC, and a reusable design system |
 | [Practical Debt Control](#practical-debt-control) | Flutter | Published Android app for tracking debts and payments |
@@ -97,6 +98,14 @@ I built a Python pipeline that translates EPUB and Markdown books into Brazilian
 I implemented interchangeable orchestration engines using asyncio, LangGraph, and Google ADK, and used *The Wonderful Wizard of Oz* to evaluate terminology consistency across chapters.
 
 [Source code](https://github.com/limadlp/lexicon-agent-orchestration)
+
+### [Especialistas — RAG for Personal Libraries](https://github.com/limadlp/especialistas-rag)
+
+I built a local app for asking questions about PDF and EPUB collections. Each assistant has its own library, instructions, and conversation history. Citations in each answer open the supporting passage in the source document.
+
+The Python and FastAPI backend combines multilingual E5 embeddings in Qdrant with BM25 keyword search. An LLM reranks passages and can request a follow-up search when evidence is missing. The project includes evaluations for retrieval, answer accuracy, and citations.
+
+[Source code](https://github.com/limadlp/especialistas-rag)
 
 ## Web Frontend
 
