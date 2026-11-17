@@ -10,6 +10,7 @@ I build mobile apps with Flutter and Dart, including Android apps published on G
 | --- | --- | --- |
 | [Lexicon](#lexicon--agent-orchestration-for-book-translation) | Applied AI | Parallel LLM workflows, shared glossary, and translation evaluation |
 | [Especialistas](#especialistas--rag-for-personal-libraries) | Applied AI | Hybrid search over PDFs and EPUBs, with answers linked to source passages |
+| [Entre Languages](#entre-languages--ai-powered-language-practice) | Applied AI | Language practice with concurrent character dialogue and writing feedback |
 | [Practical Chord Transposer](#practical-chord-transposer) | Flutter | Published Android app with a custom chord editor and keyboard |
 | [Travel Tech](#travel-tech--corporate-expense-management) | Flutter | Offline-first app with Drift, BLoC, and a reusable design system |
 | [Practical Debt Control](#practical-debt-control) | Flutter | Published Android app for tracking debts and payments |
@@ -106,6 +107,14 @@ I built a local app for asking questions about PDF and EPUB collections. Each as
 The Python and FastAPI backend combines multilingual E5 embeddings in Qdrant with BM25 keyword search. An LLM reranks passages and can request a follow-up search when evidence is missing. The project includes evaluations for retrieval, answer accuracy, and citations.
 
 [Source code](https://github.com/limadlp/especialistas-rag)
+
+### [Entre Languages — AI-Powered Language Practice](https://github.com/limadlp/entre-languages)
+
+I built a web app for practicing English, Brazilian Portuguese, Spanish, and Mandarin Chinese through conversations with fictional AI characters. An optional language critic suggests more natural wording and explains the changes in the learner's chosen language.
+
+A Python orchestrator runs the character and critic concurrently with asyncio. FastAPI streams each result to the React frontend as it completes, so learners can keep chatting while feedback is pending.
+
+[Source code](https://github.com/limadlp/entre-languages)
 
 ## Web Frontend
 
