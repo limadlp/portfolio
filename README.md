@@ -1,6 +1,6 @@
 # Dangeles Lima — Software Developer & Applied AI Engineer
 
-I build mobile apps with Flutter and Dart, including Android apps published on Google Play and offline-first apps with local persistence and automated testing. My applied AI work focuses on building AI agents, orchestrating LLM workflows, and evaluating their performance.
+This portfolio brings together selected software development projects, with a focus on Flutter mobile development and applied AI engineering. My mobile work includes apps built with Flutter and Dart, apps published on Google Play, and projects involving offline support, local storage, and automated testing. In applied AI, I build agents, orchestrate LLM workflows, and evaluate their performance. Each project includes a brief description of what I built and a link to the app or source code.
 
 [View all repositories](https://github.com/limadlp) · [LinkedIn](https://www.linkedin.com/in/dangeles-lima/)
 
