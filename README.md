@@ -116,6 +116,12 @@ A Python orchestrator runs the character and critic concurrently with asyncio. F
 
 [Source code](https://github.com/limadlp/entre-languages)
 
+## Academic Team Projects
+
+- [Checkin Saúde](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-2-e3-proj-mov-t3-pmv-ads-checkin-saude/tree/main) — Team project at PUC Minas, second semester of 2026.
+- [EcoTroca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2026-1-e2-proj-int-t5-g4-ecotroca/tree/main) — Recognized as a standout project at PUC Minas in the first semester of 2026.
+- [Photograpp](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-2-e1-proj-web-t8-g4-photograpp) — Recognized as a standout project at PUC Minas in the second semester of 2025.
+
 ## Web Frontend
 
 - [Pizzashop dashboard](https://github.com/limadlp/pizzashop-web) — Vite and React
